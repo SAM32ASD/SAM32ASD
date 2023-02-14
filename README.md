@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/sam32asd/sam32asd/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Mbassa</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
