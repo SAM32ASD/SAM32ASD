@@ -21,7 +21,7 @@
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sam32asd&&theme=xcode)](https://github.com/sam32asd)
+[(https://activity-graph.herokuapp.com/graph?username=sam32asd&&theme=xcode)](https://github.com/sam32asd)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam32asd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sam32asd" /></p>
 
