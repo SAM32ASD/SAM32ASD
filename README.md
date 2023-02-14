@@ -1,4 +1,4 @@
-[![MasterHead](https://garry.bhatt.al/what-is-devops)]
+[![MasterHead](	https://garry.bhatt.al/assets/images/2020-07-16/devops.gif)]
 
 <h1 align="center">Hi 👋, I'm Samuel Mbassa</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
