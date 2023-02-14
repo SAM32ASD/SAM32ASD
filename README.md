@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.cm/url?sa=i&url=https%3A%2F%2Fgarry.bhatt.al%2Fwhat-is-devops&psig=AOvVaw3EEIG_2zVI17fbchvOvIXm&ust=1676461496510000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjQhv73lP0CFQAAAAAdAAAAABAE)]
+(https://www.google.cm/url?sa=i&url=https%3A%2F%2Fgarry.bhatt.al%2Fwhat-is-devops&psig=AOvVaw3EEIG_2zVI17fbchvOvIXm&ust=1676461496510000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjQhv73lP0CFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Samuel Mbassa</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
