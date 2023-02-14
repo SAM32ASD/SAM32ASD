@@ -1,5 +1,6 @@
-[![MasterHead](	https://garry.bhatt.al/assets/images/2020-07-16/devops.gif)]
+[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-…/uploads/2022/05/31103033/devOps-cloud-native.gif)]
 
+<!-- https://garry.bhatt.al/assets/images/2020-07-16/devops.gif -->
 <h1 align="center">Hi 👋, I'm Samuel Mbassa</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
